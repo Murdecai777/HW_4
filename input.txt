@@ -1,0 +1,4 @@
+//read
+ x; (if ((y + 1) == x))(*but "this" is a comment"*) then write y else skip "not comment"
+ (*but "this" is a comment"*)
+ -gre_ed, after
